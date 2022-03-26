@@ -1,0 +1,8 @@
+com\casabonita\spring\deserializers\JsonCustomDeserializer_1.class
+com\casabonita\spring\Config.class
+com\casabonita\spring\pathAndDirectories\Directories.class
+com\casabonita\spring\dto\User.class
+com\casabonita\spring\dto\package-info.class
+com\casabonita\spring\pathAndDirectories\MakePath.class
+com\casabonita\spring\deserializers\JsonCustomDeserializer_2.class
+com\casabonita\spring\deserializers\JsonDeserializer.class
